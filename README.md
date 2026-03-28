@@ -7,20 +7,4 @@ Pose graph optimization (PGO) is fundamental to robot perception and navigation 
 
 If you find our work useful in your research, please consider citing:
 
-@inproceedings{chen2026parallelizable,
-
-  title={Parallelizable Riemannian Alternating Direction Method of Multipliers for Non-convex Pose Graph Optimization},
-  
-  author={Chen, X. and Cui, C. and Han, D. and Qi, L.},
-  
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  
-  volume={40},
-  
-  number={43},
-  
-  pages={36811--36819},
-  
-  year={2026}
-  
-}
+Chen, X., Cui, C., Han, D. and Qi, L. 2026. Parallelizable Riemannian Alternating Direction Method of Multipliers for Non-convex Pose Graph Optimization. Proceedings of the AAAI Conference on Artificial Intelligence. 40, 43 (Mar. 2026), 36811-36819. DOI:https://doi.org/10.1609/aaai.v40i43.41007.
